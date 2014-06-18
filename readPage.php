@@ -47,7 +47,6 @@ $html->load_file('page1.html');
 
 		    }
 
-	}
-
+	} 
 
 ?>
