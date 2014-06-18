@@ -15,7 +15,7 @@ https://explorecourses.stanford.edu/search%3Bjsessionid=05B4F0C555020025D45A3E75
 3) Open readPage.php from a browser.
 
 
-4) The PHP script should display list of instructors listed on the page saved as page1.html
+4) The PHP script should display list of emails of instructors listed on the page saved as page1.html
 
 
 END OF DOCUMENT
